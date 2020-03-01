@@ -1,0 +1,10 @@
+product page:
+  - name of product
+  - availibility
+  - category
+  - first price
+  - low price
+  - descript
+  - main image
+  - other images
+
